@@ -1,0 +1,23 @@
+/* globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom glassmorphism utilities */
+@layer utilities {
+  .glass {
+    @apply bg-white/10 backdrop-blur-md rounded-xl border border-white/20;
+  }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0B1023;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #8B5CF6;
+  border-radius: 4px;
+}
