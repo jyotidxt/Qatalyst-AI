@@ -1,0 +1,1513 @@
+npm verbose cli C:\Program Files\nodejs\node.exe C:\Users\ASUS\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+npm info using npm@11.4.2
+npm info using node@v22.14.0
+npm verbose title npm install
+npm verbose argv "install" "--legacy-peer-deps" "--loglevel" "verbose"
+npm verbose logfile logs-max:10 dir:C:\Users\ASUS\AppData\Local\npm-cache\_logs\2026-08-25T15_24_05_919Z-
+npm verbose logfile C:\Users\ASUS\AppData\Local\npm-cache\_logs\2026-08-25T15_24_05_919Z-debug-0.log
+npm verbose shrinkwrap failed to load node_modules/.package-lock.json missing from node_modules: node_modules/framer-motion
+npm http fetch GET 200 https://registry.npmjs.org/acorn 1302ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/acorn-jsx 186ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/dunder-proto 65ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/async-function 67ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/binary-extensions 70ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@types%2freact-reconciler 607ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/deep-is 75ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fcolour 75ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/detect-libc 65ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-darwin-arm64 67ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-darwin-x64 95ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-freebsd-wasm32 69ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-libvips-darwin-arm64 73ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-libvips-darwin-x64 76ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-libvips-linux-arm 343ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-libvips-linux-arm64 279ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-libvips-linux-ppc64 100ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-libvips-linux-riscv64 376ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-libvips-linux-s390x 97ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-libvips-linux-x64 98ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-libvips-linuxmusl-arm64 103ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-libvips-linuxmusl-x64 330ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-linux-arm 374ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-linux-arm64 103ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-linux-ppc64 93ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-linux-riscv64 102ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-linux-s390x 76ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-linux-x64 84ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-linuxmusl-arm64 261ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-linuxmusl-x64 93ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-webcontainers-wasm32 83ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-win32-arm64 109ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-win32-ia32 91ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-win32-x64 83ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-wasm32 110ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@img%2fsharp-wasm32 271ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@emnapi%2fruntime 98ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@types%2fthree 3452ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/three 73ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/fflate 77ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/meshoptimizer 84ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@types%2fstats.js 68ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@tweenjs%2ftween.js 77ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@types%2fwebxr 183ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@dimforge%2frapier3d-compat 71ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/client-only 71ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@types%2fdraco3d 571ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@types%2foffscreencanvas 332ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/draco3d 489ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/bidi-js 62ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@types%2fjson5 74ms (cache revalidated)
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-win32-ia32
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-win32-arm64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-webcontainers-wasm32
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-linuxmusl-x64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-linuxmusl-arm64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-linux-x64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-linux-s390x
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-linux-riscv64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-linux-ppc64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-linux-arm64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-linux-arm
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-libvips-linuxmusl-x64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-libvips-linuxmusl-arm64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-libvips-linux-x64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-libvips-linux-s390x
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-libvips-linux-riscv64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-libvips-linux-ppc64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-libvips-linux-arm64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-libvips-linux-arm
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-libvips-darwin-x64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-libvips-darwin-arm64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-freebsd-wasm32
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-darwin-x64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@img\sharp-darwin-arm64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@next\swc-win32-arm64-msvc
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@next\swc-linux-x64-musl
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@next\swc-linux-x64-gnu
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@next\swc-linux-arm64-musl
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@next\swc-linux-arm64-gnu
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@next\swc-darwin-x64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@next\swc-darwin-arm64
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\playwright\node_modules\fsevents
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\chokidar\node_modules\fsevents
+npm verbose reify failed optional dependency C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\jest-haste-map\node_modules\fsevents
+npm http cache @types/json5@https://registry.npmjs.org/@types/json5/-/json5-0.0.29.tgz 0ms (cache hit)
+npm http cache bidi-js@https://registry.npmjs.org/bidi-js/-/bidi-js-1.0.3.tgz 0ms (cache hit)
+npm http cache draco3d@https://registry.npmjs.org/draco3d/-/draco3d-1.5.7.tgz 0ms (cache hit)
+npm http cache @types/draco3d@https://registry.npmjs.org/@types/draco3d/-/draco3d-1.4.10.tgz 0ms (cache hit)
+npm http cache @types/offscreencanvas@https://registry.npmjs.org/@types/offscreencanvas/-/offscreencanvas-2019.7.3.tgz 0ms (cache hit)
+npm http cache client-only@https://registry.npmjs.org/client-only/-/client-only-0.0.1.tgz 0ms (cache hit)
+npm http cache meshoptimizer@https://registry.npmjs.org/meshoptimizer/-/meshoptimizer-1.1.1.tgz 0ms (cache hit)
+npm http cache fflate@https://registry.npmjs.org/fflate/-/fflate-0.8.3.tgz 0ms (cache hit)
+npm http cache @types/webxr@https://registry.npmjs.org/@types/webxr/-/webxr-0.5.24.tgz 0ms (cache hit)
+npm http cache @types/stats.js@https://registry.npmjs.org/@types/stats.js/-/stats.js-0.17.4.tgz 0ms (cache hit)
+npm http cache @tweenjs/tween.js@https://registry.npmjs.org/@tweenjs/tween.js/-/tween.js-23.1.3.tgz 0ms (cache hit)
+npm http cache @types/three@https://registry.npmjs.org/@types/three/-/three-0.185.4.tgz 0ms (cache hit)
+npm http cache @dimforge/rapier3d-compat@https://registry.npmjs.org/@dimforge/rapier3d-compat/-/rapier3d-compat-0.12.0.tgz 0ms (cache hit)
+npm http cache @emnapi/runtime@https://registry.npmjs.org/@emnapi/runtime/-/runtime-1.11.3.tgz 0ms (cache hit)
+npm http cache @img/sharp-wasm32@https://registry.npmjs.org/@img/sharp-wasm32/-/sharp-wasm32-0.35.3.tgz 0ms (cache hit)
+npm http cache detect-libc@https://registry.npmjs.org/detect-libc/-/detect-libc-2.1.2.tgz 0ms (cache hit)
+npm http cache @img/sharp-win32-x64@https://registry.npmjs.org/@img/sharp-win32-x64/-/sharp-win32-x64-0.35.3.tgz 0ms (cache hit)
+npm http cache @img/colour@https://registry.npmjs.org/@img/colour/-/colour-1.1.0.tgz 0ms (cache hit)
+npm http cache binary-extensions@https://registry.npmjs.org/binary-extensions/-/binary-extensions-2.3.0.tgz 0ms (cache hit)
+npm http cache deep-is@https://registry.npmjs.org/deep-is/-/deep-is-0.1.4.tgz 0ms (cache hit)
+npm http cache dunder-proto@https://registry.npmjs.org/dunder-proto/-/dunder-proto-1.0.1.tgz 0ms (cache hit)
+npm http cache async-function@https://registry.npmjs.org/async-function/-/async-function-1.0.0.tgz 0ms (cache hit)
+npm http cache acorn-jsx@https://registry.npmjs.org/acorn-jsx/-/acorn-jsx-5.3.2.tgz 0ms (cache hit)
+npm http cache acorn@https://registry.npmjs.org/acorn/-/acorn-8.18.0.tgz 0ms (cache hit)
+npm http cache three@https://registry.npmjs.org/three/-/three-0.170.0.tgz 0ms (cache hit)
+npm http cache @types/react-reconciler@https://registry.npmjs.org/@types/react-reconciler/-/react-reconciler-0.28.9.tgz 0ms (cache hit)
+npm http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 1983ms
+npm http cache https://registry.npmjs.org/postcss 3411ms (cache hit)
+npm http cache https://registry.npmjs.org/lodash.pick 3294ms (cache hit)
+npm http cache https://registry.npmjs.org/lodash.pick 2178ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/yocto-queue 4446ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/walker 4533ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/wcwidth 4703ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/victory-vendor 4706ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/which-boxed-primitive 4752ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/yargs-parser 4770ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/util-deprecate 4746ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/v8-to-istanbul 4798ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/typed-array-length 4793ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/web-streams-polyfill 4832ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/uri-js 4815ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/universalify 4829ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/unbox-primitive 4838ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/type-detect 4858ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/typed-array-byte-offset 4870ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/type-check 4870ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/typed-array-byte-length 4876ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/unrs-resolver 4899ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/utility-types 4930ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/tslib 4912ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/typed-array-buffer 4941ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ts-interface-checker 5050ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/zustand 5182ms (cache miss)
+npm http cache https://registry.npmjs.org/utility-types/-/utility-types-3.11.0.tgz 288ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/troika-worker-utils 5204ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ts-morph 5316ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ts-api-utils 5315ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/troika-three-utils 5343ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/type-fest 5394ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/undici-types 5353ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/to-regex-range 5484ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/thenify 5552ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/tmpl 5600ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/thenify-all 5584ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/text-table 5679ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/tiny-invariant 5999ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/test-exclude 6009ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/zod 6189ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/supports-preserve-symlinks-flag 6076ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/three-mesh-bvh 6088ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/supports-color 6098ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-json-comments 6120ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/three-stdlib 6161ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/troika-three-text 6326ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-ansi 6323ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/styled-jsx 6345ms (cache miss)
+npm http cache https://registry.npmjs.org/zod/-/zod-3.25.76.tgz 737ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/strip-bom 7014ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/tinyglobby 7126ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/suspend-react 7575ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string.prototype.trim 7560ms (cache miss)
+npm http cache https://registry.npmjs.org/three-stdlib/-/three-stdlib-2.36.1.tgz 1493ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/string.prototype.trimend 7627ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string.prototype.trimstart 7739ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string-width 7768ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string.prototype.includes 7782ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string_decoder 7833ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string.prototype.repeat 7846ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string.prototype.matchall 7946ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-indent 7993ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string-length 8015ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/stdin-discarder 8035ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/source-map-support 8100ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/stats.js 8113ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/stop-iteration-iterator 8122ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/sprintf-js 8139ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/stats-gl 8152ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/source-map 8172ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/source-map-js 8182ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/side-channel-weakmap 8183ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/stack-utils 8197ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/signal-exit 8198ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/stable-hash 8216ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-final-newline 8241ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/side-channel-map 8206ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/sisteransi 8237ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/slash 8238ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/side-channel-list 8240ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/side-channel 8326ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/shebang-regex 8342ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/set-function-length 8405ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/sharp 8432ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/shebang-command 8475ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/set-function-name 8519ms (cache miss)
+npm http cache https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz 387ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/set-proto 8625ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/safe-buffer 8680ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/safe-regex-test 8687ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/safe-array-concat 8703ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/run-parallel 8751ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/restore-cursor 8762ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/require-from-string 8802ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/reusify 8832ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/resolve-from 8828ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/resolve-cwd 8928ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/resolve.exports 8935ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/resolve-pkg-maps 8949ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/redent 9032ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/regexp.prototype.flags 9035ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/require-directory 9059ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/reflect.getprototypeof 9083ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/read-cache 9113ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/readdirp 9128ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-transition-group 9145ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/readable-stream 9169ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-smooth 9218ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/recast 9314ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-merge-refs 9361ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/recharts-scale 9510ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/scheduler 10114ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/safe-push-apply 10252ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/queue-microtask 10368ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-dom 10410ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/prompts 10537ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-use-measure 10670ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/prop-types 10673ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/pure-rand 10791ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-reconciler 10927ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/prelude-ls 10958ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/punycode 10983ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-composer 11205ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-is 11232ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-js 11265ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-value-parser 11273ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/possible-typed-array-names 11314ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/potpack 11331ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-load-config 11325ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-dir 11331ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/pirates 11362ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-selector-parser 11432ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/picocolors 11536ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/picomatch 11555ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-is-absolute 11545ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-key 11592ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-exists 11596ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-parse 11611ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/parse-json 11626ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/parent-module 11643ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react 11711ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-browserify 11686ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-type 11701ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/pretty-format 11790ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/p-try 11768ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/p-locate 11763ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/p-limit 11804ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/own-keys 11801ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ora 11828ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/once 11847ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object.groupby 11840ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/optionator 11862ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object.fromentries 11886ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object.values 11892ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object-hash 11897ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/onetime 11967ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object-assign 11956ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/normalize-path 11954ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/npm-run-path 11998ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/safe-regex 12177ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/node-domexception 12032ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object-inspect 12133ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/mz 12186ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-nested 12341ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/object.assign 12247ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/normalize-range 12269ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object-is 12324ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/node-releases 12428ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/mimic-fn 12454ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/minimist 12490ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/min-indent 12545ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/node-fetch 12569ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/minimatch 12605ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/natural-compare 12620ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/micromatch 12627ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object.entries 12688ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ms 12691ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/math-intrinsics 12719ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/log-symbols 12768ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/merge-stream 12787ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/merge2 12865ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/makeerror 12868ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/meshline 12892ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/make-dir 12967ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lru-cache 13010ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash.merge 13005ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash.template 13079ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lilconfig 13093ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/maath 13160ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/locate-path 13177ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash.templatesettings 13331ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/language-tags 13407ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash.omit 13449ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lines-and-columns 13496ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/leven 13537ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash.clamp 13568ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/levn 13648ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/kleur 13654ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/json-buffer 13711ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/language-subtag-registry 13737ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash._reinterpolate 14049ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jsx-ast-utils 14040ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/keyv 14047ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/json-schema-traverse 14059ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/js-tokens 14087ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-watcher 14259ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/json-parse-even-better-errors 14379ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/json-stable-stringify-without-jsonify 14563ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-worker 14675ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jsonfile 14949ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-util 14981ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-pnp-resolver 15182ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-regex-util 15229ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-get-type 15312ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/iterator.prototype 15352ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/its-fine 15590ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-mock 15976ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-validate 16014ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-docblock 16025ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-resolve-dependencies 16044ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-reports 16050ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-lib-report 16069ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-lib-coverage 16071ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-message-util 16090ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-lib-instrument 16101ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-changed-files 16116ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-runner 16140ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-matcher-utils 16143ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-weakref 16131ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-lib-source-maps 16146ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-snapshot 16183ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/isarray 16163ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object-keys 16296ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/node-int64 16286ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/isexe 16191ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-typed-array 16189ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-weakmap 16200ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-string 16197ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-weakset 16213ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-stream 16211ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-runtime 16257ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-symbol 16228ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-set 16231ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-shared-array-buffer 16236ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-path-inside 16240ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-number 16250ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-regex 16262ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-generator-function 16264ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-map 16273ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-number-object 16276ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-environment-node 16316ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-glob 16293ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-negative-zero 16300ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-interactive 16303ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-finalizationregistry 16322ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-document.all 16323ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-extglob 16327ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-core-module 16339ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-data-view 16349ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-bun-module 16357ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-unicode-supported 16561ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-callable 16537ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-bigint 16611ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-generator-fn 16620ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-boolean-object 16666ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-binary-path 16673ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-arrayish 16787ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-arguments 16944ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-fullwidth-code-point 17212ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-async-function 17211ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/inherits 17259ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/internal-slot 17266ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/internmap 17327ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-date-object 17357ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/inflight 17394ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/html-escaper 17531ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/imurmurhash 17568ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/import-fresh 17634ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/indent-string 17704ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/has-tostringtag 17758ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/hasown 17763ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ignore 17814ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ieee754 17971ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/has-proto 17986ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/human-signals 18008ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/has-symbols 18033ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/gopd 18029ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/https-proxy-agent 18063ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/has-flag 18113ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-array-buffer 18139ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/has-bigints 18155ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/graphemer 18157ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/glsl-noise 18165ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/graceful-fs 18193ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-tsconfig 18202ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/globalthis 18214ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/globals 18221ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/glob-parent 18225ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-symbol-description 18264ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/glob 18308ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/generator-function 18474ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-stream 18528ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/gensync 18627ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-intrinsic 18657ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/has-property-descriptors 18678ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-caller-file 18744ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-package-type 18771ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/function-bind 18806ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/functions-have-names 18825ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fs-extra 18850ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-proto 18957ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-import 18944ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/jest-each 18965ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/node-exports-info 18989ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fs.realpath 19187ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/recharts 19181ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-haste-map 19200ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-diff 19221ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-resolve 19238ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fraction.js 19361ms (cache miss)
+npm http cache https://registry.npmjs.org/recharts/-/recharts-2.12.3.tgz 222ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/flatted 19515ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/formdata-polyfill 19538ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-circus 19545ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/tsconfig-paths 19563ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/for-each 19610ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/find-up 19632ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fdir 19674ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-config 19728ms (cache miss)
+npm http cache https://registry.npmjs.org/tsconfig-paths/-/tsconfig-paths-3.15.0.tgz 195ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/function.prototype.name 19836ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fill-range 19813ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/flat-cache 19825ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fb-watchman 19835ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fast-levenshtein 19837ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/file-entry-cache 19865ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fastq 19872ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fast-json-stable-stringify 19879ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fast-equals 19905ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fast-glob 19918ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/execa 19949ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/exit 19979ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/esutils 20013ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fast-deep-equal 20027ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/eventemitter3 20029ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/expect 20033ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/esquery 20095ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/picomatch 20090ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fetch-blob 20139ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/framer-motion 20165ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/esrecurse 20227ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/eslint-visitor-keys 20263ms (cache miss)
+npm http cache https://registry.npmjs.org/framer-motion/-/framer-motion-11.3.0.tgz 142ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/espree 20317ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/eslint-scope 20390ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fflate 20392ms (cache miss)
+npm http cache https://registry.npmjs.org/eslint-visitor-keys/-/eslint-visitor-keys-3.4.3.tgz 144ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/estraverse 20417ms (cache miss)
+npm http cache https://registry.npmjs.org/fflate/-/fflate-0.6.11.tgz 110ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/resolve-from 20506ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/eslint-plugin-react 20521ms (cache miss)
+npm http cache https://registry.npmjs.org/resolve-from/-/resolve-from-5.0.0.tgz 57ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/lilconfig 21034ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/emoji-regex 21088ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/p-limit 21147ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/p-locate 21169ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-ansi 21174ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/locate-path 21197ms (cache miss)
+npm http cache https://registry.npmjs.org/p-limit/-/p-limit-2.3.0.tgz 87ms (cache hit)
+npm http cache https://registry.npmjs.org/p-locate/-/p-locate-4.1.0.tgz 112ms (cache hit)
+npm http cache https://registry.npmjs.org/locate-path/-/locate-path-5.0.0.tgz 121ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/react-is 21370ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/eslint-plugin-react-hooks 21511ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/eslint-plugin-security 21738ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/find-up 21800ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ansi-styles 21814ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/escape-string-regexp 21887ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/supports-color 22062ms (cache miss)
+npm http cache https://registry.npmjs.org/find-up/-/find-up-4.1.0.tgz 405ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/ansi-regex 22224ms (cache miss)
+npm http cache https://registry.npmjs.org/ansi-styles/-/ansi-styles-5.2.0.tgz 439ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 22295ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/pretty-format 22342ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 22493ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 22544ms (cache miss)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 382ms (cache hit)
+npm http cache https://registry.npmjs.org/pretty-format/-/pretty-format-29.7.0.tgz 343ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 22705ms (cache miss)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 216ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/pretty-format 22762ms (cache miss)
+npm http cache https://registry.npmjs.org/pretty-format/-/pretty-format-29.7.0.tgz 109ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/ansi-styles 22899ms (cache miss)
+npm http cache https://registry.npmjs.org/ansi-styles/-/ansi-styles-5.2.0.tgz 259ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/ansi-styles 23249ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 23292ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ansi-styles 23301ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ansi-styles 23309ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/scheduler 23423ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 23463ms (cache miss)
+npm http cache https://registry.npmjs.org/ansi-styles/-/ansi-styles-5.2.0.tgz 253ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 23506ms (cache miss)
+npm http cache https://registry.npmjs.org/ansi-styles/-/ansi-styles-5.2.0.tgz 213ms (cache hit)
+npm http cache https://registry.npmjs.org/ansi-styles/-/ansi-styles-5.2.0.tgz 221ms (cache hit)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 279ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/jest-leak-detector 23757ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ansi-styles 23570ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-is 23609ms (cache miss)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 249ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/pretty-format 23736ms (cache miss)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 247ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 23787ms (cache miss)
+npm http cache https://registry.npmjs.org/ansi-styles/-/ansi-styles-5.2.0.tgz 229ms (cache hit)
+npm http cache https://registry.npmjs.org/react-is/-/react-is-18.3.1.tgz 208ms (cache hit)
+npm http cache https://registry.npmjs.org/pretty-format/-/pretty-format-29.7.0.tgz 175ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/tsconfig-paths 23914ms (cache miss)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 172ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 23998ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/onetime 24013ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss 24086ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pretty-format 24099ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-stream 24097ms (cache miss)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 130ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 24172ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-is 24193ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-key 24226ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/camelcase 24267ms (cache miss)
+npm http cache https://registry.npmjs.org/pretty-format/-/pretty-format-29.7.0.tgz 161ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/mimic-fn 24340ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/npm-run-path 24360ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/human-signals 24368ms (cache miss)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 222ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/react-is 24404ms (cache miss)
+npm http cache https://registry.npmjs.org/react-is/-/react-is-18.3.1.tgz 226ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/pretty-format 24445ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 24475ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/execa 24495ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 24548ms (cache miss)
+npm http cache https://registry.npmjs.org/react-is/-/react-is-18.3.1.tgz 148ms (cache hit)
+npm http cache https://registry.npmjs.org/pretty-format/-/pretty-format-29.7.0.tgz 143ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/pretty-format 24762ms (cache miss)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 230ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/strip-bom 24803ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 24822ms (cache miss)
+npm http cache https://registry.npmjs.org/pretty-format/-/pretty-format-29.7.0.tgz 202ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/commander 25032ms (cache miss)
+npm http cache https://registry.npmjs.org/strip-bom/-/strip-bom-3.0.0.tgz 234ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/strip-bom 25041ms (cache miss)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 230ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/pretty-format 25083ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-is 25211ms (cache miss)
+npm http cache https://registry.npmjs.org/strip-bom/-/strip-bom-3.0.0.tgz 183ms (cache hit)
+npm http cache https://registry.npmjs.org/pretty-format/-/pretty-format-29.7.0.tgz 174ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 25271ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/pretty-format 25311ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-is 25451ms (cache miss)
+npm http cache https://registry.npmjs.org/react-is/-/react-is-18.3.1.tgz 533ms (cache hit)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 652ms (cache hit)
+npm http cache https://registry.npmjs.org/pretty-format/-/pretty-format-29.7.0.tgz 666ms (cache hit)
+npm http cache https://registry.npmjs.org/react-is/-/react-is-18.3.1.tgz 579ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 26083ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 26085ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-final-newline 26134ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ajv 25297ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/chalk 26226ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss 25386ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/playwright 25487ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/pretty-format 26933ms (cache miss)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 898ms (cache hit)
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 895ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/uuid 26141ms (cache revalidated)
+npm http fetch GET https://registry.npmjs.org/yallist attempt 1 failed with ETIMEDOUT
+npm http fetch GET https://registry.npmjs.org/yargs attempt 1 failed with ETIMEDOUT
+npm http fetch GET https://registry.npmjs.org/which-collection attempt 1 failed with ETIMEDOUT
+npm http fetch GET https://registry.npmjs.org/write-file-atomic attempt 1 failed with ETIMEDOUT
+npm http fetch GET https://registry.npmjs.org/wrap-ansi attempt 1 failed with ETIMEDOUT
+npm http fetch GET https://registry.npmjs.org/wrappy attempt 1 failed with ETIMEDOUT
+npm http fetch GET https://registry.npmjs.org/word-wrap attempt 1 failed with ETIMEDOUT
+npm http fetch GET https://registry.npmjs.org/webgl-constants attempt 1 failed with ETIMEDOUT
+npm http fetch GET https://registry.npmjs.org/which-typed-array attempt 1 failed with ETIMEDOUT
+npm http fetch GET https://registry.npmjs.org/y18n attempt 1 failed with ETIMEDOUT
+npm http fetch GET https://registry.npmjs.org/which-builtin-type attempt 1 failed with ETIMEDOUT
+npm http fetch GET https://registry.npmjs.org/webgl-sdf-generator attempt 1 failed with ETIMEDOUT
+npm http cache https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 925ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/lodash.pick/-/lodash.pick-4.4.0.tgz 24217ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss/-/postcss-8.4.31.tgz 24248ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/walker/-/walker-1.0.8.tgz 23405ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/yocto-queue/-/yocto-queue-0.1.0.tgz 23524ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/wcwidth/-/wcwidth-1.0.1.tgz 23237ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/which-boxed-primitive/-/which-boxed-primitive-1.1.1.tgz 23255ms (cache miss)
+npm http cache https://registry.npmjs.org/pretty-format/-/pretty-format-29.7.0.tgz 375ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/yargs-parser/-/yargs-parser-21.1.1.tgz 23291ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz 23346ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/v8-to-istanbul/-/v8-to-istanbul-9.3.0.tgz 23311ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/typed-array-length/-/typed-array-length-1.0.8.tgz 23347ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/universalify/-/universalify-2.0.1.tgz 23388ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/unbox-primitive/-/unbox-primitive-1.1.0.tgz 23412ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/type-detect/-/type-detect-4.0.8.tgz 23383ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/typed-array-byte-offset/-/typed-array-byte-offset-1.0.4.tgz 23461ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/type-check/-/type-check-0.4.0.tgz 23458ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-is 27727ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/unrs-resolver/-/unrs-resolver-1.12.2.tgz 23613ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/typed-array-byte-length/-/typed-array-byte-length-1.0.3.tgz 23636ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/tslib/-/tslib-2.8.1.tgz 23881ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/typed-array-buffer/-/typed-array-buffer-1.0.3.tgz 23870ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-is 28206ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ts-interface-checker/-/ts-interface-checker-0.1.13.tgz 23832ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/zustand/-/zustand-3.7.2.tgz 23833ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/troika-worker-utils/-/troika-worker-utils-0.47.2.tgz 23775ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/@react-three%2fdrei 1432ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz 891ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/troika-three-utils/-/troika-three-utils-0.47.2.tgz 24089ms (cache miss)
+npm http cache https://registry.npmjs.org/react-is/-/react-is-18.3.1.tgz 920ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/tmpl/-/tmpl-1.0.5.tgz 24451ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/thenify/-/thenify-3.3.1.tgz 24689ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/tiny-invariant/-/tiny-invariant-1.3.3.tgz 24369ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/test-exclude/-/test-exclude-6.0.0.tgz 24382ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/text-table/-/text-table-0.2.0.tgz 24728ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/thenify-all/-/thenify-all-1.6.0.tgz 24887ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-is 29915ms (cache miss)
+npm http cache https://registry.npmjs.org/tailwindcss 1450ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/supports-color/-/supports-color-7.2.0.tgz 24718ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-json-comments/-/strip-json-comments-3.1.1.tgz 24694ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz 24829ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/to-regex-range/-/to-regex-range-5.0.1.tgz 25450ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz 24680ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-bom/-/strip-bom-4.0.0.tgz 24082ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/tinyglobby/-/tinyglobby-0.2.17.tgz 24067ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/suspend-react/-/suspend-react-0.1.3.tgz 23581ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string.prototype.trim/-/string.prototype.trim-1.2.11.tgz 23684ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string.prototype.trimend/-/string.prototype.trimend-1.0.10.tgz 23612ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string.prototype.includes/-/string.prototype.includes-2.0.1.tgz 23465ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string.prototype.trimstart/-/string.prototype.trimstart-1.0.8.tgz 23594ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string-width/-/string-width-4.2.3.tgz 23632ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string_decoder/-/string_decoder-1.3.0.tgz 23564ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string.prototype.repeat/-/string.prototype.repeat-1.0.0.tgz 23565ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string.prototype.matchall/-/string.prototype.matchall-4.0.12.tgz 23506ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-indent/-/strip-indent-3.0.0.tgz 23524ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/stdin-discarder/-/stdin-discarder-0.1.0.tgz 23495ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/string-length/-/string-length-4.0.2.tgz 23526ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/stop-iteration-iterator/-/stop-iteration-iterator-1.1.0.tgz 23440ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/stats.js/-/stats.js-0.17.0.tgz 23452ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/source-map-support/-/source-map-support-0.5.13.tgz 23503ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.0.3.tgz 23468ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/side-channel-weakmap/-/side-channel-weakmap-1.0.2.tgz 23491ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/stats-gl/-/stats-gl-2.4.2.tgz 23536ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/stack-utils/-/stack-utils-2.0.6.tgz 23499ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.7.tgz 23491ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/stable-hash/-/stable-hash-0.0.5.tgz 23485ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-final-newline/-/strip-final-newline-2.0.0.tgz 23561ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/slash/-/slash-3.0.0.tgz 23613ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/side-channel-map/-/side-channel-map-1.0.1.tgz 23649ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/sisteransi/-/sisteransi-1.0.5.tgz 23631ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/side-channel-list/-/side-channel-list-1.0.1.tgz 23657ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/shebang-regex/-/shebang-regex-3.0.0.tgz 23544ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/side-channel/-/side-channel-1.1.1.tgz 23588ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/set-function-length/-/set-function-length-1.2.2.tgz 23536ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/source-map-js/-/source-map-js-1.2.1.tgz 23830ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/shebang-command/-/shebang-command-2.0.0.tgz 23517ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/set-function-name/-/set-function-name-2.0.2.tgz 23516ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/set-proto/-/set-proto-1.0.0.tgz 23412ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.2.1.tgz 23354ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/safe-regex-test/-/safe-regex-test-1.1.0.tgz 23349ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/safe-array-concat/-/safe-array-concat-1.1.4.tgz 23432ms (cache miss)
+npm http cache https://registry.npmjs.org/react-is/-/react-is-18.3.1.tgz 1732ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/run-parallel/-/run-parallel-1.2.0.tgz 23426ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/restore-cursor/-/restore-cursor-4.0.0.tgz 23433ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/reusify/-/reusify-1.1.0.tgz 23367ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/require-from-string/-/require-from-string-2.0.2.tgz 23411ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/resolve-from/-/resolve-from-4.0.0.tgz 23414ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/resolve-pkg-maps/-/resolve-pkg-maps-1.0.0.tgz 23352ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/redent/-/redent-3.0.0.tgz 23267ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/resolve-cwd/-/resolve-cwd-3.0.0.tgz 23378ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/resolve.exports/-/resolve.exports-2.0.3.tgz 23390ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/uri-js/-/uri-js-4.4.1.tgz 27713ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/require-directory/-/require-directory-2.1.1.tgz 23351ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/read-cache/-/read-cache-1.0.2.tgz 23290ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/reflect.getprototypeof/-/reflect.getprototypeof-1.0.10.tgz 23328ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/regexp.prototype.flags/-/regexp.prototype.flags-1.5.4.tgz 23431ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/readdirp/-/readdirp-3.6.0.tgz 23344ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-smooth/-/react-smooth-4.0.4.tgz 23376ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/readable-stream/-/readable-stream-3.6.2.tgz 23428ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-transition-group/-/react-transition-group-4.4.5.tgz 23534ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/recast/-/recast-0.23.21.tgz 23369ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/recharts-scale/-/recharts-scale-0.4.5.tgz 23186ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/safe-push-apply/-/safe-push-apply-1.0.0.tgz 22430ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-merge-refs/-/react-merge-refs-1.1.0.tgz 23335ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz 22324ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/scheduler/-/scheduler-0.21.0.tgz 22651ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ts-api-utils/-/ts-api-utils-2.5.0.tgz 27775ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-use-measure/-/react-use-measure-2.1.7.tgz 22256ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz 22277ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/pure-rand/-/pure-rand-6.1.0.tgz 22159ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-is 32730ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/prompts/-/prompts-2.4.2.tgz 22669ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/punycode/-/punycode-2.3.1.tgz 22368ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/prelude-ls/-/prelude-ls-1.2.1.tgz 22455ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz 22397ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-js/-/postcss-js-4.1.0.tgz 22433ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-composer/-/react-composer-5.0.3.tgz 22607ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz 22528ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/possible-typed-array-names/-/possible-typed-array-names-1.1.0.tgz 22508ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/potpack/-/potpack-1.0.2.tgz 22504ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-load-config/-/postcss-load-config-4.0.2.tgz 22502ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/pkg-dir/-/pkg-dir-4.2.0.tgz 22547ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/pirates/-/pirates-4.0.7.tgz 22704ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/picocolors/-/picocolors-1.1.1.tgz 22538ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-is-absolute/-/path-is-absolute-1.0.1.tgz 22591ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/picomatch/-/picomatch-2.3.2.tgz 22594ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-key/-/path-key-3.1.1.tgz 22719ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-parse/-/path-parse-1.0.7.tgz 22705ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-exists/-/path-exists-4.0.0.tgz 22718ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-selector-parser/-/postcss-selector-parser-6.1.4.tgz 23006ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/parse-json/-/parse-json-5.2.0.tgz 22780ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/parent-module/-/parent-module-1.0.1.tgz 22765ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-type/-/path-type-4.0.0.tgz 22757ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-browserify/-/path-browserify-1.0.1.tgz 22796ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/p-try/-/p-try-2.2.0.tgz 22836ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/p-locate/-/p-locate-5.0.0.tgz 22817ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/p-limit/-/p-limit-3.1.0.tgz 22797ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/own-keys/-/own-keys-1.0.2.tgz 22809ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/pretty-format/-/pretty-format-27.5.1.tgz 23274ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\type-fest\index.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\prompts\dist\elements\autocompleteMultiselect.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\string.prototype.trim\README.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\framer-motion\dist\es\render\dom\viewport\index.mjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\safe-array-concat\.github\FUNDING.yml'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\set-function-length\.github\FUNDING.yml'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\sharp\dist\channel.cjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\source-map-js\lib\source-node.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\reusify\SECURITY.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-merge-refs\dist\react-merge-refs.cjs.production.min.js.map'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\picocolors\picocolors.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\picomatch\lib\picomatch.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\path-type\readme.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.groupby\auto.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\once\once.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\ora\readme.md'
+npm http fetch GET 200 https://registry.npmjs.org/object.groupby/-/object.groupby-1.0.3.tgz 23268ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/once/-/once-1.4.0.tgz 23275ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ora/-/ora-6.3.1.tgz 23303ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object-hash\dist\object_hash.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\npm-run-path\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object-inspect\LICENSE'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-domexception\.history\index_20210527203947.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-releases\data'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\mimic-fn\index.d.ts'
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/meshline'
+npm warn tarball tarball data for meshline@3.3.1 (sha512-/TQj+JdZkeSUOl5Mk2J7eLcYTLiQm2IDzmlSvYm7ov15anEcDJ92GHqqazxTSreeNgfnYu24kiEvvv0WlbCdFQ==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/make-dir'
+npm warn tarball tarball data for make-dir@4.0.0 (sha512-hXdUTZYIVOt1Ex//jAQi+wTZZpUpwBj/0QsOzqegb3rGMMeJiSEu5xLHnYfBrRV4RH2+OCSOO95Is/7x1WJ4bw==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/lru-cache'
+npm warn tarball tarball data for lru-cache@5.1.1 (sha512-KpNARQA3Iwv+jTA0utUVVbrh+Jlrr1Fv0e56GGzAFOXN7dk/FviaDW8LHmK52DlcH4WP2n6gI8vN1aesBFgo9w==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/lodash.merge'
+npm warn tarball tarball data for lodash.merge@4.6.2 (sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/lodash.template'
+npm warn tarball tarball data for lodash.template@4.18.1 (sha512-5urZrLnV/VD6zHK5KsVtZgt7H19v51mIzoS0aBNH8yp3I8tbswrEjOABOPY8m8uB7NuibubLrMX+Y0PXsU9X+w==) seems to be corrupted. Trying again.
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\min-indent\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\minimist\.nycrc'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\math-intrinsics\.eslintrc'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\merge-stream\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\log-symbols\license'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\makeerror\license'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\merge2\LICENSE'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.fromentries\LICENSE'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\undici-types\formdata.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\string.prototype.includes\.travis.yml'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\web-streams-polyfill\ponyfill'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\zustand\esm\shallow.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\side-channel\.github\FUNDING.yml'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recast\parsers\_babel_options.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recharts-scale\src\getNiceTickValues.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-transition-group\cjs\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-reconciler\cjs\react-reconciler.development.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-is\build-info.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-composer\package.json'
+npm http fetch GET 200 https://registry.npmjs.org/optionator/-/optionator-0.9.4.tgz 23398ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object.fromentries/-/object.fromentries-2.0.8.tgz 23364ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react\cjs\react-jsx-dev-runtime.development.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\safe-regex\lib\analyzer.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\type-fest\ts41\index.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\prompts\lib\elements\autocompleteMultiselect.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\framer-motion\dist\es\utils\mix\index.mjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\sharp\dist\colour.cjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\source-map-js\lib\util.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\reusify\reusify.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-merge-refs\dist\react-merge-refs.esm.js.map'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\victory-vendor\lib-vendor\d3-interpolate\src\basisClosed.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\readable-stream\lib\internal\streams\destroy.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\picocolors\types.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\picomatch\lib\scan.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\path-browserify\test\test-path-dirname.js'
+npm http fetch GET 200 https://registry.npmjs.org/object.values/-/object.values-1.2.1.tgz 23448ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/onetime/-/onetime-5.1.2.tgz 23392ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\pretty-format\build\plugins\ConvertAnsi.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.groupby\implementation.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object-hash\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\ora\index.d.ts'
+npm http fetch GET 200 https://registry.npmjs.org/normalize-path/-/normalize-path-3.0.0.tgz 23372ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz 23378ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\npm-run-path\readme.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-domexception\.history\index_20210527204259.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object-inspect\example'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-releases\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\mimic-fn\index.js'
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/maath'
+npm warn tarball tarball data for maath@0.10.8 (sha512-tRvbDF0Pgqz+9XUa4jjfgAQ8/aPKmQdWXilFu2tMy4GWj4NOsx99HlULO4IeREfbO3a0sA145DZYyvXPkybm0g==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/locate-path'
+npm warn tarball tarball data for locate-path@6.0.0 (sha512-iPZK6eYjbxRu3uB4/WZ3EsEIMJFMqAoopl3R+zuq0UjcAm/MO6KCweDgPfP3elTztoKP3KtnVHxTn2NHBSDVUw==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/lilconfig'
+npm warn tarball tarball data for lilconfig@2.1.0 (sha512-utWOt/GHzuUxnLKxB6dk81RoOeoNeHgbrXiuGk4yyF5qlRz+iIVWu56E2fqGHFrXz0QNUhLB/8nKqvRH66JKGQ==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/lodash.templatesettings'
+npm warn tarball tarball data for lodash.templatesettings@4.2.0 (sha512-stgLz+i3Aa9mZgnjr/O+v9ruKZsPsndy7qPZOchbqk2cnTU1ZaldKK+v7m54WoKIyxiuMZTKT2H81F8BeAc3ZQ==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/language-tags'
+npm warn tarball tarball data for language-tags@1.0.9 (sha512-MbjN408fEndfiQXbFQ1vnd+1NoLDsnQW41410oQBXiyXDMYH5z505juWa4KUE1LqxRC7DgOgZDbKLxHIwm27hA==) seems to be corrupted. Trying again.
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\min-indent\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\minimist\LICENSE'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\math-intrinsics\LICENSE'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\merge-stream\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\log-symbols\browser.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\merge2\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-fetch\src\errors\base.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\makeerror\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.fromentries\auto.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\undici-types\global-dispatcher.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\string.prototype.includes\.github'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\web-streams-polyfill\ponyfill'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\zustand\shallow.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recast\.eslintrc.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\pure-rand\lib\distribution\UnsafeUniformBigIntDistribution.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-is\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-composer\README.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\postcss-selector-parser\dist\selectors\constructors.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\optionator\lib\util.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recharts-scale\es6\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-transition-group\esm\index.js'
+npm http fetch GET 200 https://registry.npmjs.org/object-hash/-/object-hash-3.0.0.tgz 23526ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react\cjs\react-jsx-dev-runtime.production.min.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\safe-regex\bin'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recharts\es6\cartesian\ZAxis.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\type-fest\source\iterable-element.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\prompts\dist\util\clear.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\source-map-js\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\framer-motion\dist\es\utils\reduced-motion'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\sharp\dist\composite.cjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\reusify\.github'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-merge-refs\CHANGELOG.md'
+npm http cache https://registry.npmjs.org/react-is/-/react-is-18.3.1.tgz 2416ms (cache hit)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\victory-vendor\lib-vendor\d3-shape\src\curve\basisClosed.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\readable-stream\lib\internal\streams\end-of-stream.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\picomatch\lib\utils.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\path-browserify\test\test-path-extname.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object-hash\readme.markdown'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\pretty-format\build\plugins\DOMCollection.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.groupby\test'
+npm http fetch GET 200 https://registry.npmjs.org/node-domexception/-/node-domexception-1.0.0.tgz 23470ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/safe-regex/-/safe-regex-2.1.1.tgz 23506ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/npm-run-path/-/npm-run-path-4.0.1.tgz 23519ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\npm-run-path\index.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-domexception\.history\index_20210527204418.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object-inspect\test'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-releases\data'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\mimic-fn\license'
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/lodash.omit'
+npm warn tarball tarball data for lodash.omit@4.18.0 (sha512-hZXIupXdHtocTnvIJ2aCd2vxKYtxex6gbiGuPvgBRnFQO9yu3AtmDAbVuCXcSsQx3INo/1g71OktlFFA/ES8Xg==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/lines-and-columns'
+npm warn tarball tarball data for lines-and-columns@1.2.4 (sha512-7ylylesZQ/PV29jhEDl3Ufjo6ZX7gCqJr5F7PKrqc93v7fzSymt1BpwEU8nAUXs8qzzvqhbjhK5QZg6Mt/HkBg==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/leven'
+npm warn tarball tarball data for leven@3.1.0 (sha512-qsda+H8jTaUaN/x5vzW2rzc+8Rw4TAQ/4KjB46IwK5VH+IlVeeeje/EoZRpiXvIqjFgK84QffqPztGI3VBLG1A==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/lodash.clamp'
+npm warn tarball tarball data for lodash.clamp@4.0.3 (sha512-HvzRFWjtcguTW7yd8NJBshuNaCa8aqNFtnswdT7f/cMd/1YKy5Zzoq4W/Oxvnx9l7aeY258uSdDfM793+eLsVg==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/levn'
+npm warn tarball tarball data for levn@0.4.1 (sha512-+bT2uH4E5LGE7h/n3evcS/sQlJXCpIp6ym8OWJ5eV6+67Dsql/LaaT7qJBAt2rzfoa/5QBGBhxDix1dMt2kQKQ==) seems to be corrupted. Trying again.
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\min-indent\readme.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\minimist\test'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\math-intrinsics\abs.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\merge-stream\LICENSE'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\log-symbols\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\merge2\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\makeerror\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.fromentries\implementation.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\undici-types\global-origin.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\string.prototype.includes\.github'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\web-streams-polyfill\dist\types'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\zustand\system\shallow.production.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recast\.prettierrc.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\pure-rand\lib\distribution\UnsafeUniformIntDistribution.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-is\README.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\postcss-selector-parser\dist\selectors\container.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recharts-scale\lib\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-transition-group\cjs\utils\PropTypes.js'
+npm http fetch GET 200 https://registry.npmjs.org/object-inspect/-/object-inspect-1.13.4.tgz 23546ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/mz/-/mz-2.7.0.tgz 23476ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react\cjs\react-jsx-dev-runtime.profiling.min.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\safe-regex\lib\heuristic-analyzer.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recharts\lib\cartesian\ZAxis.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\type-fest\ts41\kebab-case.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\prompts\lib\util\clear.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\source-map-js\README.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\framer-motion\dist\es\value'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\reusify\.github'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\sharp\dist\constructor.cjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\stats-gl\node_modules\three\src\materials\nodes\MeshLambertNodeMaterial.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-merge-refs\README.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\victory-vendor\lib-vendor\d3-shape\src\curve\basisOpen.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-smooth\src\AnimateGroupChild.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\picomatch\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\path-browserify\test\test-path-isabsolute.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\pretty-format\build\plugins\DOMElement.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.groupby\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-domexception\.history\index_20210527204756.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object-inspect\example'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-releases\README.md'
+npm http fetch GET 200 https://registry.npmjs.org/postcss-nested/-/postcss-nested-6.2.0.tgz 23639ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object-is/-/object-is-1.1.6.tgz 23538ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/normalize-range/-/normalize-range-0.1.2.tgz 23599ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\mimic-fn\readme.md'
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/kleur'
+npm warn tarball tarball data for kleur@3.0.3 (sha512-eTIzlVOSUR+JxdDFepEYcBMtZ9Qqdef+rnzWdRZuMbOywu5tO2w2N7rqjoANZ5k9vywhL6Br1VRjUIgTQx4E8w==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/json-buffer'
+npm warn tarball tarball data for json-buffer@3.0.1 (sha512-4bV5BfR2mqfQTJm+V5tPPdf+ZpuhiIvTuAB5g8kcrXOZpTT/QwwVRWBywX1ozr6lEuPdbHxwaJlm9G6mI2sfSQ==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/lodash._reinterpolate'
+npm warn tarball tarball data for lodash._reinterpolate@3.0.0 (sha512-xYHt68QRoYGjeeM/XOE1uJtvXQAgvszfBhjV4yvsQH0u2i9I6cI6c6/eG4Hh3UAOVn0y/xAXwmTzEay49Q//HA==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/language-subtag-registry'
+npm warn tarball tarball data for language-subtag-registry@0.3.23 (sha512-0K65Lea881pHotoGEa5gDlMxt3pctLi2RplBb7Ezh4rRdLEOtgi7n4EwK9lamnUCkKBqaeKRVebTq6BAxSkpXQ==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jsx-ast-utils'
+npm warn tarball tarball data for jsx-ast-utils@3.3.5 (sha512-ZZow9HBI5O6EPgSJLUb8n2NKgmVWTwCvHGwFuJlMjvLFqlGG6pjirPhtdsseaLZjSibD8eegzmYpUZwoIlj2cQ==) seems to be corrupted. Trying again.
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\minimist\test'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\math-intrinsics\floor.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\merge-stream\README.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\log-symbols\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\merge2\README.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\makeerror\readme.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.fromentries\test'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\undici-types\handlers.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\uri-js\dist\esnext\schemes\http.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\string.prototype.includes\.github'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\web-streams-polyfill\dist\polyfill.es2018.js.map'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\zustand\umd\shallow.production.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recast\parsers\acorn.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-reconciler\cjs\react-reconciler.production.min.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\postcss-load-config\src\index.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recharts-scale\src\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-transition-group\esm\utils\PropTypes.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react\cjs\react-jsx-runtime.development.js'
+npm http fetch GET 200 https://registry.npmjs.org/object.assign/-/object.assign-4.1.7.tgz 23758ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\safe-regex\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\type-fest\source\literal-union.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\prompts\dist\elements\confirm.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\three-mesh-bvh\src\core\cast\bvhcast_indirect.generated.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\source-map-js\lib\source-map-consumer.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\framer-motion\dist\es\value\types\color\index.mjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\sharp\dist\index.cjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\stats-gl\node_modules\three\src\renderers\shaders\ShaderLib\meshmatcap.glsl.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-merge-refs\dist\index.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\pure-rand\lib\distribution\internals'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-smooth\es6\AnimateManager.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\scheduler\umd\scheduler.development.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\picomatch\README.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\path-browserify\test\test-path-join.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\pretty-format\build\plugins\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.groupby\test'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-domexception\.history\index_20210527204833.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object-inspect\test'
+npm http fetch GET 200 https://registry.npmjs.org/node-releases/-/node-releases-2.0.53.tgz 23741ms (cache miss)
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/keyv'
+npm warn tarball tarball data for keyv@4.5.4 (sha512-oxVHkHR/EJf2CNXnWxRLW6mg7JyCCUcG0DtEGmL2ctUo1PNTin1PUil+r/+4r5MpVgC/fn1kjsx7mjSujKqIpw==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/js-tokens'
+npm warn tarball tarball data for js-tokens@4.0.0 (sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/json-schema-traverse'
+npm warn tarball tarball data for json-schema-traverse@1.0.0 (sha512-NM8/P9n3XjXhIZn1lLhkFaACTOURQXjWhV4BA/RnOv8xvgqtqpAX9IO4mRQxSx1Rlo4tqzeqb0sOlruaOy3dug==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jest-watcher'
+npm warn tarball tarball data for jest-watcher@29.7.0 (sha512-49Fg7WXkU3Vl2h6LbLtMQ/HyB6rXSIX7SqvBLQmssRBGN9I0PNvPmAmCWSOY6SOvrjhI/F7/bGAv9RtnsPA03g==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/json-parse-even-better-errors'
+npm warn tarball tarball data for json-parse-even-better-errors@2.3.1 (sha512-xyFwyhro/JEof6Ghe2iz2NcXoj2sloNsWr/XsERDK/oiPCfaNhl5ONfp+jQdAZRQQ0IJWNzH9zIZF7li91kh2w==) seems to be corrupted. Trying again.
+npm http fetch GET 200 https://registry.npmjs.org/mimic-fn/-/mimic-fn-2.1.0.tgz 23775ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\minimist\test'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\math-intrinsics\test'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\log-symbols\readme.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\makeerror\.travis.yml'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.fromentries\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\undici-types\header.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\uri-js\dist\esnext\schemes\https.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\string.prototype.includes\.github'
+npm http fetch GET 200 https://registry.npmjs.org/min-indent/-/min-indent-1.0.1.tgz 23731ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\web-streams-polyfill\dist\polyfill.es2018.min.js.map'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\zustand\system\vanilla.development.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recast\parsers\babel-ts.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\victory-vendor\lib-vendor\d3-voronoi\src'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-reconciler\cjs\react-reconciler.profiling.min.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recharts-scale\umd'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-transition-group\dist'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react\cjs\react-jsx-runtime.production.min.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\safe-regex\test'
+npm http fetch GET 200 https://registry.npmjs.org/minimist/-/minimist-1.2.8.tgz 23894ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/natural-compare/-/natural-compare-1.4.0.tgz 23765ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\type-fest\source\merge-exclusive.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-fetch\src\errors\fetch-error.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\prompts\lib\elements\confirm.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@types\three\src\nodes\core\ParameterNode.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\three-mesh-bvh\src\core\cast\bvhcast.generated.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\source-map-js\lib\source-map-generator.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\framer-motion\dist\es\value\types\complex\index.mjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\sharp\dist\input.cjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\stats-gl\node_modules\three\src\materials\MeshMatcapMaterial.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-merge-refs\src\index.tsx'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\prop-types\lib\ReactPropTypesSecret.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\postcss-value-parser\lib\index.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\path-browserify\test\test-path-parse-format.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\pretty-format\build\plugins\Immutable.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.groupby\polyfill.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-domexception\.history\index_20210527211208.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object-inspect\test'
+npm http fetch GET 200 https://registry.npmjs.org/node-fetch/-/node-fetch-3.3.2.tgz 23846ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\three-stdlib\objects\ShadowMesh.js'
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/json-stable-stringify-without-jsonify'
+npm warn tarball tarball data for json-stable-stringify-without-jsonify@1.0.1 (sha512-Bdboy+l7tA3OGW6FjyFHWkP5LuByj1Tk33Ljyq0axyzdk9//JSi2u3fP1QSmd1KNwq6VOKYGlAu87CisVir6Pw==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jsonfile'
+npm warn tarball tarball data for jsonfile@6.2.1 (sha512-zwOTdL3rFQ/lRdBnntKVOX6k5cKJwEc1HdilT71BWEu7J41gXIB2MRp+vxduPSwZJPWBxEzv4yH1wYLJGUHX4Q==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jest-worker'
+npm warn tarball tarball data for jest-worker@29.7.0 (sha512-eIz2msL/EzL9UFTFFx7jBTkeZfku0yUAyZZZmJ93H2TYEiroIx2PQjEXcwYtYl8zXCxb+PAmA2hLIt/6ZEkPHw==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jest-util'
+npm warn tarball tarball data for jest-util@29.7.0 (sha512-z6EbKajIpqGKU56y5KBUgy1dt1ihhQJgWzUlZHArA/+X2ad7Cb5iF+AK1EWVL/Bo7Rz9uurpqw6SiBCefUbCGA==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jest-pnp-resolver'
+npm warn tarball tarball data for jest-pnp-resolver@1.2.3 (sha512-+3NpwQEnRoIBtx4fyhblQDPgJI0H1IEIkX7ShLUjPGA7TtUTvI1oiKi3SR4oBR0hQhQR80l4WAe5RrXBwWMA8w==) seems to be corrupted. Trying again.
+npm http fetch GET 200 https://registry.npmjs.org/ms/-/ms-2.1.3.tgz 23781ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\minimist\test'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\math-intrinsics\isFinite.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\log-symbols\index.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.fromentries\test'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\undici-types\index.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\uri-js\dist\esnext\index.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\string.prototype.includes\.github'
+npm http fetch GET 200 https://registry.npmjs.org/minimatch/-/minimatch-3.1.5.tgz 23874ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\zod\v4\locales\ua.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\zustand\umd\vanilla.development.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recast\parsers\babel.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\victory-vendor\lib-vendor\d3-array\src\bin.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\regexp.prototype.flags\test\shimmed.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-reconciler\reflection.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recharts-scale\umd'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-transition-group\dist'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react\cjs\react-jsx-runtime.profiling.min.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\safe-regex\example'
+npm http fetch GET 200 https://registry.npmjs.org/micromatch/-/micromatch-4.0.8.tgz 24029ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object.entries/-/object.entries-1.1.9.tgz 23970ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\type-fest\source\merge.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recharts\umd\Recharts.js.map'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\prompts\dist\elements\date.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@types\three\src\nodes\core\PropertyNode.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\three-mesh-bvh\src\core\cast\bvhcast.js'
+npm http fetch GET 200 https://registry.npmjs.org/react-is 36375ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\source-map-js\source-map.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\framer-motion\dist\es\value'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\sharp\dist\is.cjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\stats-gl\node_modules\three\src\materials\nodes\MeshMatcapNodeMaterial.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\pure-rand\lib\distribution\internals'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\path-browserify\test\test-path-relative.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\pretty-format\build\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.groupby\shim.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-domexception\.history\index_20210527211248.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\three-stdlib\math\SimplexNoise.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object-inspect\test'
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jest-regex-util'
+npm warn tarball tarball data for jest-regex-util@29.6.3 (sha512-KJJBsRCyyLNWCNBOvZyRDnAIfUiRJ8v+hOBQYGn8gDyF3UegwiP4gwRR3/SDa42g1YbVycTidUF3rKjyLFDWbg==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jest-get-type'
+npm warn tarball tarball data for jest-get-type@29.6.3 (sha512-zrteXnqYxfQh7l5FHyL38jL39di8H8rHoecLH3JNxH3BwOrBsNeabdap5e0I23lD4HHI8W5VFBZqG4Eaq5LNcw==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/its-fine'
+npm warn tarball tarball data for its-fine@1.2.5 (sha512-fXtDA0X0t0eBYAGLVM5YsgJGsJ5jEmqZEPrGbzdf5awjv0xE7nqv3TVnvtUF060Tkes15DbDAKW/I48vsb6SyA==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/iterator.prototype'
+npm warn tarball tarball data for iterator.prototype@1.1.5 (sha512-H0dkQoCa3b2VEeKQBOxFph+JAbcrQdE7KC0UkqwpLmv2EC4P41QXP+rqo9wYodACiG5/WM5s9oDApTU8utwj9g==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jest-mock'
+npm warn tarball tarball data for jest-mock@29.7.0 (sha512-ITOMZn+UkYS4ZFh83xYAOzWStloNzJFO2s8DWrE4lhtGD+AorgnbkiKERe4wQVBydIGPx059g6riW5Btp6Llnw==) seems to be corrupted. Trying again.
+npm http fetch GET 200 https://registry.npmjs.org/merge-stream/-/merge-stream-2.0.0.tgz 24145ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/math-intrinsics/-/math-intrinsics-1.1.0.tgz 24211ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/log-symbols/-/log-symbols-5.1.0.tgz 24183ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/makeerror/-/makeerror-1.0.12.tgz 24089ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\minimist\test'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\math-intrinsics\isInteger.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.fromentries\polyfill.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\undici-types\interceptors.d.ts'
+npm http fetch GET 200 https://registry.npmjs.org/merge2/-/merge2-1.4.1.tgz 24109ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\string.prototype.includes\.github'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\uri-js\dist\esnext\schemes\mailto.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\zod\src\v4\locales\ua.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\zustand\esm\vanilla.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recast\parsers\babylon.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\victory-vendor\lib-vendor\d3-array\src\bisect.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\regexp.prototype.flags\test\tests.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-reconciler\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recharts-scale\es6\util\utils.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react\cjs\react.development.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-transition-group\cjs\utils\reflow.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\safe-regex\package.json'
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jest-validate'
+npm warn tarball tarball data for jest-validate@29.7.0 (sha512-ZB7wHqaRGVw/9hST/OuFUReG7M8vKeq0/J2egIGLdvjHCmYqGARhzXmtgi+gVeZ5uXFF219aOc3Ls2yLg27tkw==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jest-docblock'
+npm warn tarball tarball data for jest-docblock@29.7.0 (sha512-q617Auw3A612guyaFgsbFeYpNP5t2aoUNLwBUbc/0kD1R4t9ixDbyFTHd1nok4epoVFpr7PmeWHrhvuV3XaJ4g==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jest-resolve-dependencies'
+npm warn tarball tarball data for jest-resolve-dependencies@29.7.0 (sha512-un0zD/6qxJ+S0et7WxeI3H5XSe9lTBBR7bOHCHXkKR6luG5mwDDlIzVQ0V5cZCuoTgEdcdwzTghYkTWfubi+nA==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/istanbul-reports'
+npm warn tarball tarball data for istanbul-reports@3.2.0 (sha512-HGYWWS/ehqTV3xN10i23tkPkpH46MLCIMFNCaaKNavAXTF1RkqxawEPtnjnGZ6XKSInBKkiOA5BKS+aZiY3AvA==) seems to be corrupted. Trying again.
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\type-fest\source\mutable.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\prompts\lib\elements\date.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\@types\three\src\nodes\core\StackNode.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\three-mesh-bvh\src\core\cast\closestPointToGeometry_indirect.generated.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\source-map-js\lib\source-node.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\sprintf-js\test\test.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\framer-motion\dist\es\value\use-will-change\index.mjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\sharp\dist\libvips.cjs'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\stats-gl\node_modules\three\src\renderers\shaders\ShaderLib\meshnormal.glsl.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\pure-rand\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\jest-diff\node_modules\react-is\cjs\react-is.development.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\scheduler\umd\scheduler.production.min.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-smooth\src\AnimateManager.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\path-browserify\test\test-path-resolve.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\pretty-format\build\plugins\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.groupby\test'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-domexception\.history\index_20210527212722.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\three-stdlib\modifiers\SimplifyModifier.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object-inspect\test'
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/istanbul-lib-report'
+npm warn tarball tarball data for istanbul-lib-report@3.0.1 (sha512-GCfE1mtsHGOELCU8e/Z7YWzpmybrx/+dSTfLrvY8qRmaY6zXTKWn6WQIjaAFw069icm6GVMNkgu0NzI4iPZUNw==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/lodash.merge'
+npm warn tarball tarball data for lodash.merge@4.6.2 (sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==) seems to be corrupted. Trying again.
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\minimist\index.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\math-intrinsics\isNaN.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\styled-jsx\dist'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.fromentries\shim.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\undici-types\mock-agent.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\uri-js\dist\esnext\regexps-iri.d.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\web-streams-polyfill\dist\polyfill.es2018.mjs.map'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\string.prototype.matchall\.github'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\zod\src\v4\classic\tests\union.test.ts'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\set-proto\.github'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\zustand\vanilla.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recast\lib'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\victory-vendor\lib-vendor\d3-array\src\bisector.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\regexp.prototype.flags\package.json'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\readable-stream\experimentalWarning.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-reconciler\README.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\reflect.getprototypeof\CHANGELOG.md'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\recharts-scale\lib\util\utils.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react\umd'
+npm http fetch GET 200 https://registry.npmjs.org/react/-/react-18.2.0.tgz 26381ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-transition-group\esm\utils\reflow.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\safe-regex\CHANGELOG.md'
+npm http fetch GET 200 https://registry.npmjs.org/make-dir/-/make-dir-4.0.0.tgz 25018ms (cache miss)
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/lodash.template'
+npm warn tarball tarball data for lodash.template@4.18.1 (sha512-5urZrLnV/VD6zHK5KsVtZgt7H19v51mIzoS0aBNH8yp3I8tbswrEjOABOPY8m8uB7NuibubLrMX+Y0PXsU9X+w==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/make-dir'
+npm warn tarball tarball data for make-dir@4.0.0 (sha512-hXdUTZYIVOt1Ex//jAQi+wTZZpUpwBj/0QsOzqegb3rGMMeJiSEu5xLHnYfBrRV4RH2+OCSOO95Is/7x1WJ4bw==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/meshline'
+npm warn tarball tarball data for meshline@3.3.1 (sha512-/TQj+JdZkeSUOl5Mk2J7eLcYTLiQm2IDzmlSvYm7ov15anEcDJ92GHqqazxTSreeNgfnYu24kiEvvv0WlbCdFQ==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/lru-cache'
+npm warn tarball tarball data for lru-cache@5.1.1 (sha512-KpNARQA3Iwv+jTA0utUVVbrh+Jlrr1Fv0e56GGzAFOXN7dk/FviaDW8LHmK52DlcH4WP2n6gI8vN1aesBFgo9w==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/istanbul-lib-coverage'
+npm warn tarball tarball data for istanbul-lib-coverage@3.2.2 (sha512-O8dpsF+r0WV/8MNRKfnmrtCWhuKjxrq2w+jpzBL5UZKTi2LeVWnWOmWRxFlesJONmc+wLAGvKQZEOanko0LFTg==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jest-message-util'
+npm warn tarball tarball data for jest-message-util@29.7.0 (sha512-GBEV4GRADeP+qtB2+6u61stea8mGcOT4mCtrYISZwfu9/ISHFJ/5zOMXYbpBE9RsS5+Gb63DW4FgmnKJ79Kf6w==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/istanbul-lib-instrument'
+npm warn tarball tarball data for istanbul-lib-instrument@6.0.3 (sha512-Vtgk7L/R2JHyyGW07spoFlB8/lpjiOLTjMdms6AFMraYt3BaJauod/NGrfnVG/y4Ix1JEuMRPDPEj2ua+zz1/Q==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/maath'
+npm warn tarball tarball data for maath@0.10.8 (sha512-tRvbDF0Pgqz+9XUa4jjfgAQ8/aPKmQdWXilFu2tMy4GWj4NOsx99HlULO4IeREfbO3a0sA145DZYyvXPkybm0g==) seems to be corrupted. Trying again.
+npm warn tar ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/jest-changed-files'
+npm warn tarball tarball data for jest-changed-files@29.7.0 (sha512-fEArFiwf1BpQ+4bXSprcDc3/x4HSzL4al2tozwVpDFpsxALjLYdyiIK4e5Vz66GQJIbXJ82+35PtysofptNX2w==) seems to be corrupted. Trying again.
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\jest-diff\node_modules\react-is\umd'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.groupby\test'
+npm http fetch GET 200 https://registry.npmjs.org/lru-cache/-/lru-cache-5.1.1.tgz 25273ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, lstat 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object-inspect\test'
+npm http fetch GET 200 https://registry.npmjs.org/lodash.merge/-/lodash.merge-4.6.2.tgz 25439ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash.template/-/lodash.template-4.18.1.tgz 25387ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/meshline/-/meshline-3.3.1.tgz 25621ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lilconfig/-/lilconfig-2.1.0.tgz 25561ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash.templatesettings/-/lodash.templatesettings-4.2.0.tgz 25355ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/locate-path/-/locate-path-6.0.0.tgz 25550ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/language-tags/-/language-tags-1.0.9.tgz 25456ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ts-morph/-/ts-morph-18.0.0.tgz 33971ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/maath/-/maath-0.10.8.tgz 25796ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/leven/-/leven-3.1.0.tgz 25386ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lines-and-columns/-/lines-and-columns-1.2.4.tgz 25431ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash.clamp/-/lodash.clamp-4.0.3.tgz 25364ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/levn/-/levn-0.4.1.tgz 25342ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash.omit/-/lodash.omit-4.18.0.tgz 25606ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-reconciler/-/react-reconciler-0.27.0.tgz 28398ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/kleur/-/kleur-3.0.3.tgz 25611ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/json-buffer/-/json-buffer-3.0.1.tgz 25548ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash._reinterpolate/-/lodash._reinterpolate-3.0.0.tgz 25234ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jsx-ast-utils/-/jsx-ast-utils-3.3.5.tgz 25372ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/keyv/-/keyv-4.5.4.tgz 25405ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/json-schema-traverse/-/json-schema-traverse-1.0.0.tgz 25398ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/json-parse-even-better-errors/-/json-parse-even-better-errors-2.3.1.tgz 25079ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-watcher/-/jest-watcher-29.7.0.tgz 25189ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz 25375ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jsonfile/-/jsonfile-6.2.1.tgz 24806ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/json-stable-stringify-without-jsonify/-/json-stable-stringify-without-jsonify-1.0.1.tgz 25206ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.2.3.tgz 24574ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-worker/-/jest-worker-29.7.0.tgz 25107ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-fetch\src\utils\is-redirect.js'
+npm http fetch GET 200 https://registry.npmjs.org/jest-util/-/jest-util-29.7.0.tgz 24971ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.entries\test\implementation.js'
+npm http fetch GET 200 https://registry.npmjs.org/jest-regex-util/-/jest-regex-util-29.6.3.tgz 25170ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-get-type/-/jest-get-type-29.6.3.tgz 25077ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-mock/-/jest-mock-29.7.0.tgz 24424ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/iterator.prototype/-/iterator.prototype-1.1.5.tgz 25043ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/its-fine/-/its-fine-1.2.5.tgz 24807ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-fetch\src\utils\is.js'
+npm http fetch GET 200 https://registry.npmjs.org/jest-resolve-dependencies/-/jest-resolve-dependencies-29.7.0.tgz 24503ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-docblock/-/jest-docblock-29.7.0.tgz 24510ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/locate-path/-/locate-path-6.0.0.tgz 4941ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-lib-report/-/istanbul-lib-report-3.0.1.tgz 24689ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-validate/-/jest-validate-29.7.0.tgz 24766ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-runner/-/jest-runner-29.7.0.tgz 24646ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/node-int64/-/node-int64-0.4.0.tgz 24590ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/object-keys/-/object-keys-1.1.1.tgz 24601ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/isexe/-/isexe-2.0.0.tgz 24586ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-weakmap/-/is-weakmap-2.0.2.tgz 24579ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-fetch\src\utils\multipart-parser.js'
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-lib-coverage/-/istanbul-lib-coverage-3.2.2.tgz 25196ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-message-util/-/jest-message-util-29.7.0.tgz 25191ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-changed-files/-/jest-changed-files-29.7.0.tgz 25159ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-shared-array-buffer/-/is-shared-array-buffer-1.0.4.tgz 25068ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-string/-/is-string-1.1.1.tgz 25110ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-dom\umd\react-dom-server-legacy.browser.production.min.js'
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-lib-instrument/-/istanbul-lib-instrument-6.0.3.tgz 25439ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/isarray/-/isarray-2.0.5.tgz 25380ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-path-inside/-/is-path-inside-3.0.3.tgz 25292ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-environment-node/-/jest-environment-node-29.7.0.tgz 25244ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-number-object/-/is-number-object-1.1.1.tgz 25262ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\node-fetch\src\utils\referrer.js'
+npm http cache https://registry.npmjs.org/react-is/-/react-is-18.3.1.tgz 4972ms (cache hit)
+npm http fetch GET 200 https://registry.npmjs.org/is-negative-zero/-/is-negative-zero-2.0.3.tgz 25292ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.entries\test\index.js'
+npm http fetch GET 200 https://registry.npmjs.org/lodash.templatesettings/-/lodash.templatesettings-4.2.0.tgz 6009ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/make-dir/-/make-dir-4.0.0.tgz 6136ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lilconfig/-/lilconfig-2.1.0.tgz 6017ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-stream/-/is-stream-2.0.1.tgz 25616ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-finalizationregistry/-/is-finalizationregistry-1.1.1.tgz 25527ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-generator-fn/-/is-generator-fn-2.1.0.tgz 25220ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-bun-module/-/is-bun-module-2.0.0.tgz 25491ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-boolean-object/-/is-boolean-object-1.2.2.tgz 25182ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-binary-path/-/is-binary-path-2.1.0.tgz 25176ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\postcss-selector-parser\dist\util\index.js'
+npm http fetch GET 200 https://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz 25790ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-glob/-/is-glob-4.0.3.tgz 25755ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-interactive/-/is-interactive-2.0.0.tgz 25744ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-arguments/-/is-arguments-1.2.0.tgz 25108ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lru-cache/-/lru-cache-5.1.1.tgz 6627ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.entries\test\native.js'
+npm http fetch GET 200 https://registry.npmjs.org/is-extglob/-/is-extglob-2.1.1.tgz 26024ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-unicode-supported/-/is-unicode-supported-1.3.0.tgz 25819ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-arrayish/-/is-arrayish-0.2.1.tgz 25561ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-async-function/-/is-async-function-2.1.1.tgz 25139ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/has-tostringtag/-/has-tostringtag-1.0.2.tgz 24570ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/html-escaper/-/html-escaper-2.0.2.tgz 24800ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/inflight/-/inflight-1.0.6.tgz 24945ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/import-fresh/-/import-fresh-3.3.1.tgz 24711ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\postcss-selector-parser\dist\util\maxNestingDepth.js'
+npm http fetch GET 200 https://registry.npmjs.org/is-document.all/-/is-document.all-1.0.0.tgz 26221ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz 25339ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ieee754/-/ieee754-1.2.1.tgz 24563ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/hasown/-/hasown-2.0.4.tgz 24773ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-data-view/-/is-data-view-1.0.2.tgz 26335ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/inherits/-/inherits-2.0.4.tgz 25411ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/indent-string/-/indent-string-4.0.0.tgz 24965ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/has-flag/-/has-flag-4.0.0.tgz 24543ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/has-bigints/-/has-bigints-1.1.0.tgz 24504ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/https-proxy-agent/-/https-proxy-agent-6.2.1.tgz 24607ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/internmap/-/internmap-2.0.3.tgz 25460ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/imurmurhash/-/imurmurhash-0.1.4.tgz 25216ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/human-signals/-/human-signals-2.1.0.tgz 24774ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/glob-parent/-/glob-parent-6.0.2.tgz 24556ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/language-tags/-/language-tags-1.0.9.tgz 7035ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/has-symbols/-/has-symbols-1.1.0.tgz 24901ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/globalthis/-/globalthis-1.0.4.tgz 24713ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.11.tgz 24737ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/has-property-descriptors/-/has-property-descriptors-1.0.2.tgz 24232ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-caller-file/-/get-caller-file-2.0.5.tgz 24173ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-package-type/-/get-package-type-0.1.0.tgz 24160ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-each/-/jest-each-29.7.0.tgz 23991ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/has-proto/-/has-proto-1.2.0.tgz 25083ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/generator-function/-/generator-function-2.0.1.tgz 24576ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-proto/-/get-proto-1.0.1.tgz 24113ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-stream/-/get-stream-6.0.1.tgz 24541ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/glob/-/glob-7.2.3.tgz 24762ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-matcher-utils/-/jest-matcher-utils-29.7.0.tgz 27037ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/gopd/-/gopd-1.2.0.tgz 25107ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/function-bind/-/function-bind-1.1.2.tgz 24348ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/flatted/-/flatted-3.4.4.tgz 23691ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fb-watchman/-/fb-watchman-2.0.2.tgz 23376ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss-import/-/postcss-import-15.1.0.tgz 24399ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz 24175ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-diff/-/jest-diff-29.7.0.tgz 24121ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fs-extra/-/fs-extra-11.4.0.tgz 24616ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/for-each/-/for-each-0.3.5.tgz 23853ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fdir/-/fdir-6.5.0.tgz 23788ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fraction.js/-/fraction.js-4.3.7.tgz 24109ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fast-glob/-/fast-glob-3.3.1.tgz 23536ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/flat-cache/-/flat-cache-3.2.0.tgz 23644ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fastq/-/fastq-1.20.1.tgz 23597ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/file-entry-cache/-/file-entry-cache-6.0.1.tgz 23612ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fast-json-stable-stringify/-/fast-json-stable-stringify-2.1.0.tgz 23593ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fast-levenshtein/-/fast-levenshtein-2.0.6.tgz 23664ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-resolve/-/jest-resolve-29.7.0.tgz 24356ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/function.prototype.name/-/function.prototype.name-1.2.0.tgz 23786ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/find-up/-/find-up-5.0.0.tgz 23963ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fill-range/-/fill-range-7.1.1.tgz 23782ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/esrecurse/-/esrecurse-4.3.0.tgz 23366ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/estraverse/-/estraverse-5.3.0.tgz 23183ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/onetime/-/onetime-6.0.0.tgz 19565ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.entries\test\shimmed.js'
+npm http fetch GET 200 https://registry.npmjs.org/jest-circus/-/jest-circus-29.7.0.tgz 24353ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/espree/-/espree-9.6.1.tgz 23578ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/eventemitter3/-/eventemitter3-4.0.7.tgz 23871ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/esutils/-/esutils-2.0.3.tgz 23888ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lilconfig/-/lilconfig-3.1.3.tgz 22856ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/picomatch/-/picomatch-4.0.7.tgz 23809ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-ansi/-/strip-ansi-7.2.0.tgz 22716ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-2.0.0.tgz 22019ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ansi-regex/-/ansi-regex-6.3.0.tgz 21679ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/chalk/-/chalk-5.6.2.tgz 21200ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-leak-detector/-/jest-leak-detector-29.7.0.tgz 20326ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz 24111ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/exit/-/exit-0.1.2.tgz 24173ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fetch-blob/-/fetch-blob-3.2.0.tgz 24034ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/supports-color/-/supports-color-8.1.1.tgz 22109ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-stream/-/is-stream-3.0.0.tgz 20068ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/path-key/-/path-key-4.0.0.tgz 19942ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\object.entries\test\tests.js'
+npm http fetch GET 200 https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz 22864ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/npm-run-path/-/npm-run-path-5.3.0.tgz 20049ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/leven/-/leven-3.1.0.tgz 8328ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/strip-final-newline/-/strip-final-newline-3.0.0.tgz 18279ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lines-and-columns/-/lines-and-columns-1.2.4.tgz 8362ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/execa/-/execa-5.1.1.tgz 24785ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/camelcase/-/camelcase-6.3.0.tgz 20435ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/scheduler/-/scheduler-0.23.2.tgz 21262ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/mimic-fn/-/mimic-fn-4.0.0.tgz 20438ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash.clamp/-/lodash.clamp-4.0.3.tgz 8703ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/execa/-/execa-7.2.0.tgz 20290ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash._reinterpolate/-/lodash._reinterpolate-3.0.0.tgz 8452ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/levn/-/levn-0.4.1.tgz 8709ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/json-buffer/-/json-buffer-3.0.1.tgz 8454ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-5.2.0.tgz 23326ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/human-signals/-/human-signals-4.3.1.tgz 20560ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/json-schema-traverse/-/json-schema-traverse-1.0.0.tgz 8321ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/kleur/-/kleur-3.0.3.tgz 8588ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/json-parse-even-better-errors/-/json-parse-even-better-errors-2.3.1.tgz 8323ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/emoji-regex/-/emoji-regex-8.0.0.tgz 23979ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/postcss/-/postcss-8.5.23.tgz 20978ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/chalk/-/chalk-5.6.2.tgz 22600ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/globals/-/globals-13.24.0.tgz 27047ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/chalk/-/chalk-5.2.0.tgz 20701ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-watcher/-/jest-watcher-29.7.0.tgz 8584ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz 8572ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/which-collection 45910ms attempt #2 (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/undici-types/-/undici-types-5.26.5.tgz 40618ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-weakref/-/is-weakref-1.1.1.tgz 29487ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/lodash.omit/-/lodash.omit-4.18.0.tgz 9372ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/keyv/-/keyv-4.5.4.tgz 8858ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jsonfile/-/jsonfile-6.2.1.tgz 8171ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/yallist 46187ms attempt #2 (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/wrappy 46187ms attempt #2 (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-regex-util/-/jest-regex-util-29.6.3.tgz 7342ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-pnp-resolver/-/jest-pnp-resolver-1.2.3.tgz 8134ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-bigint/-/is-bigint-1.1.0.tgz 29175ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/word-wrap 46381ms attempt #2 (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-worker/-/jest-worker-29.7.0.tgz 8369ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/wrap-ansi 46394ms attempt #2 (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/json-stable-stringify-without-jsonify/-/json-stable-stringify-without-jsonify-1.0.1.tgz 8380ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-get-type/-/jest-get-type-29.6.3.tgz 7543ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/iterator.prototype/-/iterator.prototype-1.1.5.tgz 7545ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-runtime/-/jest-runtime-29.7.0.tgz 29728ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-callable/-/is-callable-1.2.7.tgz 29399ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/write-file-atomic 46494ms attempt #2 (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/webgl-constants 46489ms attempt #2 (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/which-builtin-type 46496ms attempt #2 (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/y18n 46498ms attempt #2 (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-util/-/jest-util-29.7.0.tgz 8431ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-validate/-/jest-validate-29.7.0.tgz 7474ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-resolve-dependencies/-/jest-resolve-dependencies-29.7.0.tgz 7474ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-changed-files/-/jest-changed-files-29.7.0.tgz 7219ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-message-util/-/jest-message-util-29.7.0.tgz 7221ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/gensync/-/gensync-1.0.0-beta.2.tgz 27367ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/which-typed-array 46599ms attempt #2 (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-docblock/-/jest-docblock-29.7.0.tgz 7577ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-lib-instrument/-/istanbul-lib-instrument-6.0.3.tgz 7322ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/its-fine/-/its-fine-1.2.5.tgz 7766ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/webgl-sdf-generator 46620ms attempt #2 (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-mock/-/jest-mock-29.7.0.tgz 7875ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-lib-coverage/-/istanbul-lib-coverage-3.2.2.tgz 7444ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-lib-report/-/istanbul-lib-report-3.0.1.tgz 7730ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/formdata-polyfill/-/formdata-polyfill-4.0.10.tgz 26729ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/ignore/-/ignore-5.3.2.tgz 28604ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/commander/-/commander-4.1.1.tgz 21290ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-array-buffer/-/is-array-buffer-3.0.5.tgz 28458ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-lib-source-maps/-/istanbul-lib-source-maps-4.0.1.tgz 30635ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-typed-array/-/is-typed-array-1.1.15.tgz 30718ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-map/-/is-map-2.0.3.tgz 30659ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/functions-have-names/-/functions-have-names-1.2.3.tgz 28119ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-set/-/is-set-2.0.3.tgz 30832ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-date-object/-/is-date-object-1.1.0.tgz 29697ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-symbol-description/-/get-symbol-description-1.1.0.tgz 28998ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-weakset/-/is-weakset-2.0.4.tgz 31178ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-core-module/-/is-core-module-2.16.2.tgz 31033ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/internal-slot/-/internal-slot-1.1.0.tgz 30215ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-symbol/-/is-symbol-1.1.1.tgz 31337ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-regex/-/is-regex-1.2.1.tgz 31298ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/which-collection/-/which-collection-1.0.2.tgz 2196ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/troika-three-text/-/troika-three-text-0.47.2.tgz 41711ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/glsl-noise/-/glsl-noise-0.0.0.tgz 29401ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/yallist/-/yallist-3.1.1.tgz 1992ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz 1982ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/which-builtin-type/-/which-builtin-type-1.2.1.tgz 1679ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/styled-jsx/-/styled-jsx-5.1.6.tgz 41698ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-intrinsic/-/get-intrinsic-1.3.0.tgz 28971ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/y18n/-/y18n-5.0.8.tgz 1730ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/get-tsconfig/-/get-tsconfig-4.14.3.tgz 29559ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-7.0.0.tgz 1995ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/word-wrap/-/word-wrap-1.2.5.tgz 2009ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/write-file-atomic/-/write-file-atomic-4.0.2.tgz 1898ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/which-typed-array/-/which-typed-array-1.1.22.tgz 1987ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/yargs 49150ms attempt #2 (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/is-generator-function/-/is-generator-function-1.1.2.tgz 32489ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/eslint-scope/-/eslint-scope-7.2.2.tgz 28534ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-dom\umd\react-dom-server.browser.development.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\postcss-selector-parser\dist\util\stripComments.js'
+npm http fetch GET 200 https://registry.npmjs.org/jest-snapshot/-/jest-snapshot-29.7.0.tgz 33378ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/expect/-/expect-29.7.0.tgz 29535ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/type-fest/-/type-fest-0.20.2.tgz 44840ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-dom\umd\react-dom-server.browser.production.min.js'
+npm http fetch GET 200 https://registry.npmjs.org/webgl-sdf-generator/-/webgl-sdf-generator-1.1.1.tgz 3956ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/fast-equals/-/fast-equals-5.4.1.tgz 30389ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\postcss-selector-parser\dist\util\unesc.js'
+npm http fetch GET 200 https://registry.npmjs.org/jest-config/-/jest-config-29.7.0.tgz 30869ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jest-haste-map/-/jest-haste-map-29.7.0.tgz 31459ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-dom\umd\react-dom-test-utils.development.js'
+npm http fetch GET 200 https://registry.npmjs.org/node-exports-info/-/node-exports-info-1.6.2.tgz 32001ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/graphemer/-/graphemer-1.4.0.tgz 32949ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-dom\umd\react-dom-test-utils.production.min.js'
+npm http fetch GET 200 https://registry.npmjs.org/esquery/-/esquery-1.7.0.tgz 31178ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/webgl-constants/-/webgl-constants-1.1.1.tgz 5442ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/sharp/-/sharp-0.35.3.tgz 43623ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/language-subtag-registry/-/language-subtag-registry-0.3.23.tgz 15255ms (cache miss)
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-dom\umd\react-dom.development.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-dom\umd\react-dom.production.min.js'
+npm warn tar TAR_ENTRY_ERROR ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\react-dom\umd\react-dom.profiling.min.js'
+npm http fetch GET 200 https://registry.npmjs.org/istanbul-reports/-/istanbul-reports-3.2.0.tgz 14139ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz 42565ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/eslint-plugin-security/-/eslint-plugin-security-2.0.0.tgz 30967ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/yargs/-/yargs-17.7.3.tgz 4396ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/three-mesh-bvh/-/three-mesh-bvh-0.6.8.tgz 47325ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/tsconfig-paths/-/tsconfig-paths-4.2.0.tgz 28961ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/jsx-ast-utils/-/jsx-ast-utils-3.3.5.tgz 16898ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/web-streams-polyfill/-/web-streams-polyfill-3.3.3.tgz 49189ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/victory-vendor/-/victory-vendor-36.9.2.tgz 50124ms (cache miss)
+npm http fetch GET 200 https://registry.npmjs.org/eslint-plugin-react/-/eslint-plugin-react-7.37.5.tgz 34040ms (cache miss)
+npm warn cleanup Failed to remove some directories [
+npm warn cleanup   [
+npm warn cleanup     '\\\\?\\C:\\Users\\ASUS\\Desktop\\JYOTI\\Qatalyst AI\\node_modules\\tsconfig-paths',
+npm warn cleanup     [Error: EPERM: operation not permitted, rmdir 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\tsconfig-paths\src\__tests__'] {
+npm warn cleanup       errno: -4048,
+npm warn cleanup       code: 'EPERM',
+npm warn cleanup       syscall: 'rmdir',
+npm warn cleanup       path: 'C:\\Users\\ASUS\\Desktop\\JYOTI\\Qatalyst AI\\node_modules\\tsconfig-paths\\src\\__tests__'
+npm warn cleanup     }
+npm warn cleanup   ],
+npm warn cleanup   [
+npm warn cleanup     'C:\\Users\\ASUS\\Desktop\\JYOTI\\Qatalyst AI\\node_modules\\jest-resolve',
+npm warn cleanup     [Error: EPERM: operation not permitted, rmdir 'C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI\node_modules\jest-resolve\node_modules\resolve\test\resolver\symlinked'] {
+npm warn cleanup       errno: -4048,
+npm warn cleanup       code: 'EPERM',
+npm warn cleanup       syscall: 'rmdir',
+npm warn cleanup       path: 'C:\\Users\\ASUS\\Desktop\\JYOTI\\Qatalyst AI\\node_modules\\jest-resolve\\node_modules\\resolve\\test\\resolver\\symlinked'
+npm warn cleanup     }
+npm warn cleanup   ]
+npm warn cleanup ]
+npm verbose stack CwdError: ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/meshline'
+npm verbose stack     at C:\Users\ASUS\AppData\Roaming\npm\node_modules\npm\node_modules\tar\lib\mkdir.js:43:12
+npm verbose stack     at callback (C:\Users\ASUS\AppData\Roaming\npm\node_modules\npm\node_modules\graceful-fs\polyfills.js:306:20)
+npm verbose stack     at FSReqCallback.oncomplete (node:fs:198:21)
+npm error code ENOENT
+npm error path C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/meshline
+npm error enoent ENOENT: Cannot cd into 'C:/Users/ASUS/Desktop/JYOTI/Qatalyst AI/node_modules/meshline'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm verbose cwd C:\Users\ASUS\Desktop\JYOTI\Qatalyst AI
+npm verbose os Windows_NT 10.0.26200
+npm verbose node v22.14.0
+npm verbose npm  v11.4.2
+npm verbose exit 1
+npm verbose code 1
+npm error A complete log of this run can be found in: C:\Users\ASUS\AppData\Local\npm-cache\_logs\2026-08-25T15_24_05_919Z-debug-0.log
